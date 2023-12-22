@@ -1,0 +1,16 @@
+button{
+    padding: 10px;
+    padding-inline: 30px;
+}
+h1,p{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+    
+}
+body{
+    background-color: bisque;
+}
